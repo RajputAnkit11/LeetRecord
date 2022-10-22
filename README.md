@@ -6,6 +6,7 @@
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./solutions/5.%20Longest%20Palindromic%20Substring.cpp)|302 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[C++](./solutions/18.%204Sum.cpp)|51 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./solutions/54.%20Spiral%20Matrix.cpp)|0 ms|
+|76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|62 ms|
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.cpp)|89 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./solutions/219.%20Contains%20Duplicate%20II.cpp)|231 ms|
 |239|[ Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./solutions/239.%20Sliding%20Window%20Maximum.cpp)|863 ms|
