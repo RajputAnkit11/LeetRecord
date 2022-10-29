@@ -1,11 +1,10 @@
 class Solution {
 public:
+    // memoization
     int helper(int i,int canBuy, vector<int>&prices, vector<vector<int>>&dp){
-        
         if(i == prices.size()){
             return 0;
         }
-        
         if(dp[i][canBuy] != -1) return dp[i][canBuy];
         
         int profit = INT_MIN;
@@ -19,7 +18,6 @@ public:
             profit = max( prices[i] + helper(i+1,1,prices,dp),
                           helper(i+1,0,prices,dp) );
         }
-        
         return dp[i][canBuy] = profit;
     }
     
@@ -30,6 +28,7 @@ public:
         // int canBuy = 1; 
         // return helper(0,canBuy,prices,dp);
         
+        /* tabulation
         int n = prices.size();
         vector<vector<int>> dp(n+1,vector<int>(2,-1));
         dp[n][0] = dp[n][1] = 0;
@@ -39,15 +38,17 @@ public:
                 int profit = INT_MIN;
                 if(canBuy){
                     profit = max(-prices[i]+dp[i+1][0], dp[i+1][1]);
-                }
+                }
                 else{
                     profit = max(prices[i] + dp[i+1][1], dp[i+1][0]);
-                }
+                }
                 dp[i][canBuy] = profit;
-            }
+            }
         }
         
         return dp[0][1];
+        */
+        
     }
     
 };
