@@ -16,4 +16,5 @@
 |713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[C++](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.cpp)|123 ms|
 |862|[ Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[C++](./solutions/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.cpp)|693 ms|
 |1208|[ Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[C++](./solutions/1208.%20Get%20Equal%20Substrings%20Within%20Budget.cpp)|15 ms|
+|1293|[ Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[C++](./solutions/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.cpp)|436 ms|
 |2401|[ Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/)|[C++](./solutions/2401.%20Longest%20Nice%20Subarray.cpp)|583 ms|
