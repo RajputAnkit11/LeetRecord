@@ -13,6 +13,7 @@
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./solutions/219.%20Contains%20Duplicate%20II.cpp)|231 ms|
 |239|[ Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./solutions/239.%20Sliding%20Window%20Maximum.cpp)|863 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](./solutions/496.%20Next%20Greater%20Element%20I.cpp)|4 ms|
+|503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|72 ms|
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](./solutions/523.%20Continuous%20Subarray%20Sum.cpp)|495 ms|
 |713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[C++](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.cpp)|123 ms|
 |862|[ Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[C++](./solutions/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.cpp)|693 ms|
