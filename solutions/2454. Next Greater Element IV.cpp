@@ -15,9 +15,9 @@ public:
             
             st.push(i);
         }
-        for(auto i: greater){
-            cout<<i<<" ";
-        }
+        // for(auto i: greater){
+        //     cout<<i<<" ";
+        // }
         for(int i=0;i<n;i++){
             int l=greater[i]+1;
             
