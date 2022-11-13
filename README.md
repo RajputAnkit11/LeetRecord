@@ -29,3 +29,4 @@
 |2454|[ Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/)|[C++](./solutions/2454.%20Next%20Greater%20Element%20IV.cpp)|364 ms|
 |2463|[ Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/)|[C++](./solutions/2463.%20Minimum%20Total%20Distance%20Traveled.cpp)|522 ms|
 |2470|[ Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)|[C++](./solutions/2470.%20Number%20of%20Subarrays%20With%20LCM%20Equal%20to%20K.cpp)|246 ms|
+|2471|[ Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)|[C++](./solutions/2471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level.cpp)|569 ms|
