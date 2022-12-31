@@ -29,6 +29,7 @@
 |834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|268 ms|
 |862|[ Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[C++](./solutions/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.cpp)|693 ms|
 |886|[ Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[C++](./solutions/886.%20Possible%20Bipartition.cpp)|220 ms|
+|980|[ Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[C++](./solutions/980.%20Unique%20Paths%20III.cpp)|0 ms|
 |1208|[ Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[C++](./solutions/1208.%20Get%20Equal%20Substrings%20Within%20Budget.cpp)|15 ms|
 |1293|[ Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[C++](./solutions/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.cpp)|436 ms|
 |1310|[ XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[C++](./solutions/1310.%20XOR%20Queries%20of%20a%20Subarray.cpp)|180 ms|
