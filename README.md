@@ -25,6 +25,7 @@
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](./solutions/496.%20Next%20Greater%20Element%20I.cpp)|4 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|72 ms|
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](./solutions/523.%20Continuous%20Subarray%20Sum.cpp)|495 ms|
+|704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./solutions/704.%20Binary%20Search.cpp)|28 ms|
 |713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[C++](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.cpp)|123 ms|
 |790|[ Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[C++](./solutions/790.%20Domino%20and%20Tromino%20Tiling.cpp)|3 ms|
 |834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|268 ms|
