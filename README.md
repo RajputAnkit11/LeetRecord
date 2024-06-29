@@ -5,6 +5,7 @@
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./solutions/1.%20Two%20Sum.cpp)|11 ms|
 |5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./solutions/5.%20Longest%20Palindromic%20Substring.cpp)|302 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[C++](./solutions/18.%204Sum.cpp)|51 ms|
+|33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)|3 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./solutions/54.%20Spiral%20Matrix.cpp)|0 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|62 ms|
 |77|[ Combinations](https://leetcode.com/problems/combinations/)|[C++](./solutions/77.%20Combinations.cpp)|17 ms|
