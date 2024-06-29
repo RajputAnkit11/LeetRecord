@@ -10,6 +10,7 @@
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|62 ms|
 |77|[ Combinations](https://leetcode.com/problems/combinations/)|[C++](./solutions/77.%20Combinations.cpp)|17 ms|
 |79|[ Word Search](https://leetcode.com/problems/word-search/)|[C++](./solutions/79.%20Word%20Search.cpp)|986 ms|
+|81|[ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[C++](./solutions/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)|3 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|378 ms|
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)|19 ms|
 |137|[ Single Number II](https://leetcode.com/problems/single-number-ii/)|[C++](./solutions/137.%20Single%20Number%20II.cpp)|9 ms|
